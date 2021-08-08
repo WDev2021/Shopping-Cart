@@ -1,5 +1,9 @@
 # Shopping-Cart
 
+# Build Restocking Functionality Assignment
+
+Your task is to implement the restock feature. You should add your code to the “cart.jsx” file. More specifically, you need to implement the “restockProducts” function on line number 169 of the file. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
